@@ -1,0 +1,8 @@
+.interest {
+    flex-basis: 16%;
+    border: 1px dotted black;
+    padding: 1em;
+    margin: .05em;
+    text-align: center;
+}
+
